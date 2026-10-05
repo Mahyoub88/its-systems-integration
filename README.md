@@ -1,5 +1,13 @@
 # ITS Systems Integration & Traffic Enforcement Support
 
+## Illustrated engineering guide
+
+[Read the full engineering guide](docs/engineering-guide.md) for architecture, workflow, design rationale, evidence notes and the source gallery.
+
+![Engineering overview](docs/overview/architecture.svg)
+
+*Explanatory diagram added for this write-up.*
+
 **Author:** Mohammed Mahyoub.
 
 Supported the integration, commissioning, calibration, validation, troubleshooting, and operational performance of intelligent traffic enforcement systems across field and backend environments.
