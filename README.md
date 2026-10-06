@@ -1,5 +1,25 @@
 # ITS Systems Integration & Traffic Enforcement Support
 
+## Illustrated implementation walkthrough
+
+### ITS — from roadside sensing to backend operations
+
+![ITS — from roadside sensing to backend operations](docs/visuals/its-field-to-backend.png)
+
+[Open the scalable diagram](docs/visuals/its-field-to-backend.svg).
+
+### ITS — commissioning and fault isolation
+
+![ITS — commissioning and fault isolation](docs/visuals/its-diagnostic-workflow.png)
+
+[Open the scalable diagram](docs/visuals/its-diagnostic-workflow.svg).
+
+The roadside illustration links sensing and control equipment to transport and backend software. The diagnostic workflow explains how commissioning and troubleshooting cross those boundaries: establish device validity, trace connectivity, reproduce the symptom, correct the identified fault and verify the affected path.
+
+*These visuals were designed for this documentation. They explain the implemented scope; placement and geometry are illustrative, and the figures are not installation photographs, circuit schematics or new test results.*
+
+
+
 ## Implementation at a glance
 
 Field and backend integration, commissioning, calibration, validation and troubleshooting of intelligent traffic-enforcement systems.
