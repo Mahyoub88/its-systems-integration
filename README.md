@@ -1,12 +1,31 @@
 # ITS Systems Integration & Traffic Enforcement Support
 
-## Illustrated engineering guide
+## Implementation at a glance
 
-[Read the full engineering guide](docs/engineering-guide.md) for architecture, workflow, design rationale, evidence notes and the source gallery.
+Field and backend integration, commissioning, calibration, validation and troubleshooting of intelligent traffic-enforcement systems.
 
-![Engineering overview](docs/overview/architecture.svg)
+| Responsibility | Documented implementation |
+|---|---|
+| Field layer | Cameras, LiDAR, sensors and control units. |
+| Transport and interfaces | Networking, databases and software interfaces connect field equipment to backend operations. |
+| Commissioning | Installation support, calibration and validation across hardware and software boundaries. |
+| Diagnosis | Trace the fault through device, transport and application layers, then verify behaviour after the fix. |
 
-*Explanatory diagram added for this write-up.*
+The documented 800+ figure is the number of systems supported across the UAE, not a claim of sole design or deployment. Public documentation omits customer identities, site configurations and enforcement data. The diagrams illustrate functional responsibilities.
+
+### Architecture and implementation workflow
+
+![Explanatory functional architecture](docs/overview/architecture.svg)
+
+![Explanatory engineering workflow](docs/overview/workflow.svg)
+
+*Documentation diagrams based on the project scope; original source images and results are captioned separately.*
+
+[Full engineering guide](docs/engineering-guide.md) · [Illustrated case study](https://mahyoub88.github.io/projects/proj-its-support/)
+
+---
+
+
 
 **Author:** Mohammed Mahyoub.
 
