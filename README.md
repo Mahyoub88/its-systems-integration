@@ -30,4 +30,12 @@ ITS, System Integration, Commissioning, Calibration, Troubleshooting
 
 ## Links
 
-- [Portfolio project](https://mahyoub88.github.io/#proj-its-support)
+- [Portfolio project](https://mahyoub88.github.io/projects/proj-its-support/)
+
+## Illustrated project pages
+
+Project-specific diagrams, source media and implementation context:
+
+- [ITS Systems Integration & Traffic Enforcement Support](https://mahyoub88.github.io/projects/proj-its-support/)
+
+[Browse all engineering case studies](https://mahyoub88.github.io/projects/)
