@@ -1,5 +1,7 @@
 # ITS Systems Integration & Traffic Enforcement Support
 
+[Read case study](https://mahyoub88.github.io/projects/proj-its-support/) · [Project index](docs/PROJECTS.md) · [Engineering guide](docs/engineering-guide.md)
+
 ## Illustrated implementation walkthrough
 
 ### ITS — from roadside sensing to backend operations
@@ -17,7 +19,6 @@
 The roadside illustration links sensing and control equipment to transport and backend software. The diagnostic workflow explains how commissioning and troubleshooting cross those boundaries: establish device validity, trace connectivity, reproduce the symptom, correct the identified fault and verify the affected path.
 
 *These visuals were designed for this documentation. They explain the implemented scope; placement and geometry are illustrative, and the figures are not installation photographs, circuit schematics or new test results.*
-
 
 
 ## Implementation at a glance
@@ -46,7 +47,6 @@ The documented 800+ figure is the number of systems supported across the UAE, no
 ---
 
 
-
 **Author:** Mohammed Mahyoub.
 
 Supported the integration, commissioning, calibration, validation, troubleshooting, and operational performance of intelligent traffic enforcement systems across field and backend environments.
@@ -70,11 +70,3 @@ ITS, System Integration, Commissioning, Calibration, Troubleshooting
 ## Links
 
 - [Portfolio project](https://mahyoub88.github.io/projects/proj-its-support/)
-
-## Illustrated project pages
-
-Project-specific diagrams, source media and implementation context:
-
-- [ITS Systems Integration & Traffic Enforcement Support](https://mahyoub88.github.io/projects/proj-its-support/)
-
-[Browse all engineering case studies](https://mahyoub88.github.io/projects/)
