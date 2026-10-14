@@ -22,7 +22,7 @@ The documented work covers installation support, commissioning, calibration, val
 
 ## What the scale means
 
-The published 800+ figure describes systems supported across the UAE. It is not a claim that every system was independently designed or deployed by one engineer.
+The case study covers systems supported across the UAE, with responsibilities in integration, commissioning, calibration and troubleshooting.
 
 ## Evidence to review or collect
 

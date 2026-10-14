@@ -2,7 +2,7 @@
 
 ## Tracing an enforcement event across system boundaries
 
-The documented responsibility spans roadside cameras, LiDAR, sensors and control units, transport connectivity, databases and software interfaces. The reported 800+ systems describes the support scope across the UAE. It does not represent a count of systems designed or installed by one engineer. This case study focuses on integration and diagnosis, with customer and enforcement records excluded from the public material.
+The documented responsibility spans roadside cameras, LiDAR, sensors and control units, transport connectivity, databases and software interfaces. The support scope covers intelligent transportation and traffic enforcement systems across the UAE. This case study focuses on integration and diagnosis, with customer and enforcement records excluded from the public material.
 
 An event must remain traceable as it crosses the acquisition, edge-processing, transport and backend boundaries. A useful diagnostic record associates the device identity, event time, observed symptom and receiving service. These are an explanatory record model, not a disclosure of the deployed database schema or a claim that the system implements syslog. RFC 5424 supplies a reference for separating structured event content from its transport.
 

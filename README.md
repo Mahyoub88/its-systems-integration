@@ -32,7 +32,7 @@ Field and backend integration, commissioning, calibration, validation and troubl
 | Commissioning | Installation support, calibration and validation across hardware and software boundaries. |
 | Diagnosis | Trace the fault through device, transport and application layers, then verify behaviour after the fix. |
 
-The documented 800+ figure is the number of systems supported across the UAE, not a claim of sole design or deployment. Public documentation omits customer identities, site configurations and enforcement data. The diagrams illustrate functional responsibilities.
+The documented scope covers operational support and integration of systems across the UAE. Public documentation omits customer identities, site configurations and enforcement data. The diagrams illustrate functional responsibilities.
 
 ### Architecture and implementation workflow
 
@@ -53,11 +53,13 @@ Supported the integration, commissioning, calibration, validation, troubleshooti
 
 ## Scale
 
-800+ intelligent transportation and traffic enforcement systems supported across the UAE.
+Intelligent transportation and traffic enforcement systems supported across the UAE.
 
 ## Role
 
 Mohammed Mahyoub is a Senior Service Engineer with 14 years of multidisciplinary engineering experience, including over 7 years at VITRONIC Machine Vision in the UAE.
+
+Joined VITRONIC in October 2019 and promoted to Senior Service Engineer in December 2024.
 
 Field and systems engineering across cameras, LiDAR, sensors, control units, networking, databases, and software interfaces.
 
