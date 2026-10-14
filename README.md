@@ -57,6 +57,8 @@ Supported the integration, commissioning, calibration, validation, troubleshooti
 
 ## Role
 
+Mohammed Mahyoub is a Senior Service Engineer with 14 years of multidisciplinary engineering experience, including over 7 years at VITRONIC Machine Vision in the UAE.
+
 Field and systems engineering across cameras, LiDAR, sensors, control units, networking, databases, and software interfaces.
 
 ## Method
